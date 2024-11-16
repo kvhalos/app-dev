@@ -1,6 +1,6 @@
 
 # Pacific Rim
-![alt text](pacific-rim-poster-banner.jpg)
+![alt text](Pacific Rim.jpg)
 
 ## synopsis
 

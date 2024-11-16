@@ -1,6 +1,6 @@
 
 # Pacific Rim
-![alt text]([Pacific Rim.jpg](https://collider.com/wp-content/uploads/pacific-rim-poster-banner.jpg))
+![alt text](PacificRim.jpg)
 
 ## synopsis
 
